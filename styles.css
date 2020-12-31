@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+.contents{
+    max-width: 500px;
+    margin: auto;
+}
+
+.heading{
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Staatliches', cursive;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.blogs{
+    text-align: center;
+}
+
+.lists{
+    list-style: none;
+}
+
+.blog-image{
+    max-block-size: 400px;
+}
+
+
+.line{
+    border: 1px solid burlywood;
+    width: fit-content;
+    /* display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px; */
+}
